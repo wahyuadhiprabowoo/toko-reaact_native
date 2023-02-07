@@ -1,0 +1,20 @@
+export const COLORS = {
+  cover: "#E6EE9C",
+  primary: "#8BC34A",
+  accent: "#689F38",
+  hijau: "#C3FF99",
+  hijauTua: "#7CB342",
+  pink: "#FF74B1",
+  dark: "#181818",
+  ungu: "#8758FF",
+  orange: "#FF884B",
+  abu: "#F2F2F2",
+  abuV1: "#D4D4D4",
+  cokelat: "#E8DFCA",
+  light: "#FFFFFFFF",
+  lightV1: "#FAFAFA",
+  biru: "#0F3460",
+  cokelatMuda: "#FFF5E4",
+  lime: "#c6ff00",
+};
+export const baseURL = "https://tokoweb.noretest.com/";
